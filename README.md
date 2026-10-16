@@ -51,7 +51,7 @@ outro modo seria:
 4. Execute as células do notebook sequencialmente (Shift + Enter) para visualizar o tratamento de dados, a análise exploratória e o modelo preditivo em ação.
 
 ## Vídeo Executivo
-A apresentação gerencial simulando uma reunião para a liderança encontra-se anexada na pasta de report deste repositório. 
+A apresentação gerencial simulando uma reunião para a liderança encontra-se anexada na pasta de reports deste repositório. 
 
-**Como assistir:** Como o arquivo excede o limite de reprodução nativa do navegador do GitHub, você pode baixá-lo e assisti-lo diretamente [clicando aqui](./reports/Vídeo%20Executivo.mp4?raw=true) (o download iniciará automaticamente), ou navegando até a pasta `reports/` e clicando no botão **Download**.
+**Como assistir:** Como o arquivo excede o limite de reprodução nativa do navegador do GitHub, você pode baixá-lo e assisti-lo entrando na pasta `reports/`, depois clique em Vídeo Executivo.mp4, após isso clique sobre o botão **Download**.
 
