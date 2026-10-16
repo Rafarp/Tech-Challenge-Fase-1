@@ -50,3 +50,6 @@ outro modo seria:
 3. No menu lateral esquerdo do Colab (ícone de pasta), faça o upload do arquivo desafio_nps_fase_1.csv para a raiz do ambiente virtual.
 4. Execute as células do notebook sequencialmente (Shift + Enter) para visualizar o tratamento de dados, a análise exploratória e o modelo preditivo em ação.
 
+## Vídeo Executivo
+A apresentação gerencial simulando uma reunião para a liderança encontra-se anexada na pasta report deste repositório. Pode visualizar e reproduzir o vídeo [clicando aqui](./reports/Vídeo%20Executivo.mp4).
+
