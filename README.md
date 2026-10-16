@@ -32,7 +32,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina local ou no Google Co
 
 1. Clone este repositório:
 bash
-git clone https://github.com/Rafarp/Tech-Challenge-Fase1.git
+git clone https://github.com/Rafarp/Tech-Challenge-Fase-1.git
 
 2. Acesse a pasta do projeto:
 cd Tech-Challenge-Fase1
