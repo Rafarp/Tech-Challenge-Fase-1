@@ -35,12 +35,18 @@ bash
 git clone https://github.com/Rafarp/Tech-Challenge-Fase-1.git
 
 2. Acesse a pasta do projeto:
-cd Tech-Challenge-Fase1
+cd Tech-Challenge-Fase-1
 
 3. Certifique-se de ter o Python 3 instalado, junto com as bibliotecas principais:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
 4. Navegue até a pasta notebooks/ e abra o arquivo
-Tech_Challenge_Fase_1_Final.ipynb utilizando o Google Colab.
+Tech_Challenge_Fase_1_Final_(1).ipynb utilizando o Google Colab.
 Atenção: Não se esqueça de fazer o upload do arquivo desafio_nps_fase_1.csv (localizado na pasta data/) para o ambiente virtual antes de executar as células.
+
+outro modo seria: 
+1. Faça o download do arquivo Tech_Challenge_Fase_1_Final_(1).ipynb (na pasta notebooks) e da base de dados desafio_nps_fase_1.csv (na pasta data) deste repositório 
+2. Acesse o [Google Colab](https://colab.research.google.com/) e faça o upload do arquivo Tech_Challenge_Fase_1_Final_(1).ipynb
+3. No menu lateral esquerdo do Colab (ícone de pasta), faça o upload do arquivo desafio_nps_fase_1.csv para a raiz do ambiente virtual.
+4. Execute as células do notebook sequencialmente (Shift + Enter) para visualizar o tratamento de dados, a análise exploratória e o modelo preditivo em ação.
 
